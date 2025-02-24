@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/white"/> <!-- Warna latar belakang kartu -->
+    <corners android:radius="4dp"/> <!-- Sudut melengkung -->
+    <shadow android:color="#000000" android:radius="4dp"/> <!-- Bayangan -->
+</shape>
